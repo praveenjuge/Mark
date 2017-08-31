@@ -6,7 +6,23 @@ Open Source Project Readme template
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of your project's readme file. You can modify this file and use it for your open source and private projects. The [sketch](Mark_sketch.sketch) file included can be used for assigning a cover image for your project.
+
+List of things you need to change while using this in your project-
+
+- Project Name
+- Description
+- Tags
+- Cover Image
+- Getting Started Instructions
+- Filling in correct Prerequisites
+- Installation Steps
+- Explain how to run tests
+- Deployment Details
+- "Built with" Details
+- Contribution, Versioning and Authors Information
+- Correct License Information
+- Acknowledgement Info (if any)
 
 ### Prerequisites
 
